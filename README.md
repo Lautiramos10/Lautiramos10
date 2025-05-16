@@ -1,5 +1,6 @@
 👋 ¡Hola! Soy Lautaro Ramos
-💻 Estudiante de programación | 📍 Argentina
+💻 Estudiante de Ingenieria Informatica | 📍 Argentina
+
 🚀 Sobre mí
 🎓 Actualmente estudio en la Universidad de la Empresa (UADE).
 
@@ -14,6 +15,7 @@ EjercicioPractica	Ejercicios prácticos con estructuras TDA en Java
 Más proyectos...	¡Estoy en camino de seguir subiendo más contenido!
 
 📫 Contacto: +54 1139200262
+
 ✉️ lautaroramos_@outlook.com
 
 💼 LinkedIn: https://www.linkedin.com/in/lautaro-agustin-ramos-93062a254/

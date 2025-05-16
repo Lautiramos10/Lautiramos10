@@ -10,8 +10,7 @@
 
 🛠️ Tecnologías y herramientas que uso
 <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,linux" alt="mis herramientas" />
-Proyecto	Descripción
-EjercicioPractica	Ejercicios prácticos con estructuras TDA en Java
+
 Más proyectos...	¡Estoy en camino de seguir subiendo más contenido!
 
 📫 Contacto: +54 1139200262
@@ -19,4 +18,17 @@ Más proyectos...	¡Estoy en camino de seguir subiendo más contenido!
 ✉️ lautaroramos_@outlook.com
 
 💼 LinkedIn: https://www.linkedin.com/in/lautaro-agustin-ramos-93062a254/
+
+## 🧠 Contenidos abordados (PYTHON,JAVA)
+
+-  Funciones y estructura condicional
+-  Listas y operaciones básicas
+-  Matrices y manipulación de datos
+-  Cadenas de caracteres
+-  Manejo de excepciones
+-  Archivos
+-  Recursividad
+-  Tuplas, conjuntos y diccionarios
+-  Tipos Abstractos de Datos (pilas y colas)
+  
 

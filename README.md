@@ -11,6 +11,11 @@
 🛠️ Tecnologías y herramientas que uso
 <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,linux" alt="mis herramientas" />
 
+📚 Cursos y Formación Complementaria
+
+🔹 El Camino Completo para Ser un Desarrollador Full Stack Web Development  
+Plataforma: Udemy | En curso (10%)  
+Tecnologías: HTML, CSS, JavaScript, Git, Node.js, Express, MongoDB, APIs REST, despliegue web.
 Más proyectos...	¡Estoy en camino de seguir subiendo más contenido!
 
 📫 Contacto: +54 1139200262

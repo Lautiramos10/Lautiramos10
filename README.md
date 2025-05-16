@@ -9,13 +9,12 @@
 
 🛠️ Tecnologías y herramientas que uso
 <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,linux" alt="mis herramientas" />
-📁 Repositorios destacados
 Proyecto	Descripción
 EjercicioPractica	Ejercicios prácticos con estructuras TDA en Java
 Más proyectos...	¡Estoy en camino de seguir subiendo más contenido!
 
-📫 Contacto
-✉️ lautiramos10@gmail.com
+📫 Contacto: +54 1139200262
+✉️ lautaroramos_@outlook.com
 
-💼 LinkedIn (si tenés, reemplazalo)
+💼 LinkedIn: https://www.linkedin.com/in/lautaro-agustin-ramos-93062a254/
 

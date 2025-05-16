@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 ¡Hola! Soy Lautaro Ramos
+💻 Estudiante de programación | 📍 Argentina
+🚀 Sobre mí
+🎓 Actualmente estudio en la Universidad de la Empresa (UADE).
 
-<!--
-**Lautiramos10/Lautiramos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Me interesa el desarrollo backend, los algoritmos y la resolución de problemas.
 
-Here are some ideas to get you started:
+🔍 Siempre estoy aprendiendo cosas nuevas, ¡y me encanta mejorar mis proyectos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías y herramientas que uso
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,linux" alt="mis herramientas" />
+📁 Repositorios destacados
+Proyecto	Descripción
+EjercicioPractica	Ejercicios prácticos con estructuras TDA en Java
+Más proyectos...	¡Estoy en camino de seguir subiendo más contenido!
+
+📫 Contacto
+✉️ lautiramos10@gmail.com
+
+💼 LinkedIn (si tenés, reemplazalo)
+
